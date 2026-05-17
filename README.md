@@ -26,3 +26,24 @@ The Student Expense Tracker is a simple Python-based CLI application that helps 
 ---
 
 ## 📁 Project Structure
+student_expense_tracker/
+│
+├── main.py
+├── expense_manager.py
+├── file_handler.py
+├── reports.py
+├── expenses.json
+├── README.md
+└── requirements.txt
+
+---
+
+## ▶️ How to Run the Project
+
+1. Install Python (if not installed)
+2. Download or clone this repository
+3. Open terminal in project folder
+4. Run the program:
+
+```bash
+python main.py
